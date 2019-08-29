@@ -1,6 +1,6 @@
 # cd41   
 my new project
-
+ 
 Based on seed project `spring-team:spring-rest-seed`
  
 ## Development        
