@@ -24,7 +24,7 @@ This service comes with some basic tests as a good starting
 point for writing your own.  Use the following command to execute the
 tests using Maven:
 
-```
+``` 
 $ ./mvnw test
 ```
 
